@@ -9,3 +9,5 @@ This program detects my name 'fahad' in a given sentence, using transition table
   - Just open index.html in any browser 
   - provide string in the texbox and press submit button
   - written in javascript
+
+  Github: [https://github.com/FahadQurashi49/nlp-assignment-1](https://github.com/FahadQurashi49/nlp-assignment-1)
